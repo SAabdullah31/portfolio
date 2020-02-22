@@ -17,6 +17,7 @@ p{
     font-size: 13px;
 }
 .content-left{
+    background-image: url(images/biography-bg.png);
     margin-top:30% ;
 }
 .half-width{
@@ -36,6 +37,7 @@ section{
 }
 a{
     text-decoration: none;
+
 
 }
 .button{
